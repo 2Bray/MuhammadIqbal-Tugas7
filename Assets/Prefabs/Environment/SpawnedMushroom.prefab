@@ -114,6 +114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   upForce: 10
   sideForce: 1
+  TimeToDeactive: 3
 --- !u!54 &7983181397567409775
 Rigidbody:
   m_ObjectHideFlags: 0

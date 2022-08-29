@@ -12,6 +12,4 @@ public class GameLauncher : MonoBehaviour
             AudioManager.Instance.PlayBgm();
         }
     }
-
-    
 }
